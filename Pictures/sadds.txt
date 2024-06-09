@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Pictures\IntroduccionAlgoritmia
+C:\Users\ADMIN\Pictures\VisualStudios
+C:\Users\ADMIN\Pictures\Phyton
+git add .
+
+git commit -m "MENSAJITO"
+
+git push
